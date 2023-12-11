@@ -1,3 +1,5 @@
+#Realtime conversation system for people with hearing and speech impairments![image](https://github.com/vaibhavnayak15/project/assets/140603295/b3a70a67-d4dc-41a8-9f6a-dfb4e9cf2741)
+
 Develop a Real-Time Sign Language Recognition System: Create a functioning system capable of recognizing and interpreting sign language gestures in real time.
 Enhance Accessibility for the Deaf and Hard of Hearing Community: Improve communication accessibility for individuals with hearing disabilities by providing a reliable tool for sign language recognition.
 Achieve High Accuracy and Precision: Train the machine learning model to achieve high accuracy and precision in recognizing a wide range of sign language gestures.
